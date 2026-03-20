@@ -1,0 +1,30 @@
+{
+  "stocks": [
+    {
+      "symbol": "300274.SZ",
+      "name": "阳光电源"
+    },
+    {
+      "symbol": "TSLA",
+      "name": "特斯拉"
+    },
+    {
+      "symbol": "NVDA",
+      "name": "英伟达"
+    },
+    {
+      "symbol": "600519.SS",
+      "name": "贵州茅台"
+    },
+    {
+      "symbol": "000858.SZ",
+      "name": "五粮液"
+    },
+    {
+      "symbol": "BTC-USD",
+      "name": "比特币"
+    }
+  ],
+  "refresh_interval": 60,
+  "display_index": 0
+}
